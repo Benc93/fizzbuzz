@@ -1,7 +1,7 @@
 fizzbuzz
 ========
 
-Lesson 1 - Week 1
+##Lesson 1 - Week 1
 
 *Downloaded & installed rspec.  
 *Built a fizzbuzz program with accompanying rspec file.  
@@ -9,7 +9,9 @@ Lesson 1 - Week 1
 *Passed an rspec test for the following:  
 1. if a number is/is not divisible by 3  
 2. if a number is/is not divisible by 7  
+
 *then  
+
 3. if a method returns "Fizz" if a number is divisible by 3  
 4. if a method returns "Buzz" if a number is divisible by 5   
 5. if a method returns "FizzBuzz" if a number is divisible by 15  
