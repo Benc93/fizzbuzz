@@ -1,4 +1,4 @@
-fizzbuzz
+Fizzbuzz
 ========
 
 ##Lesson 1 - Week 1
