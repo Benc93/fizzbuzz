@@ -1,23 +1,35 @@
-Fizzbuzz
-========
+##Makers Academy: Week 1, Lesson 1 (Fizzbuzz)
 
-##Lesson 1 - Week 1
+####Summary of Activity  
+    
+This was the first taught lesson at Makers Academy and it introduced one new concept: *Test Driven Development.*
+   
+Fizzbuzz is something of a programming institution (a fact I was oblivious to at the time!), but the lesson was there to break the ice with some familiar Ruby syntax, whilst introducing the idea of writing tests, failing them, passing them, and refactoring: 
+   
+![TDD Cycle](https://cdn.tutsplus.com/net/authors/jeffreyway/tdd_cycle.jpg)
+   
 
-*Downloaded & installed rspec.  
-*Built a fizzbuzz program with accompanying rspec file.  
-*Debugged, and discussed various points and common conventions (eg, hard code the ruby method to initially 'test' the test script)  
-*Passed an rspec test for the following:  
-1. if a number is/is not divisible by 3  
-2. if a number is/is not divisible by 7  
-
-*then  
-
-3. if a method returns "Fizz" if a number is divisible by 3  
-4. if a method returns "Buzz" if a number is divisible by 5   
-5. if a method returns "FizzBuzz" if a number is divisible by 15  
-6. if a method returns the original number if it is NOT divisible by 3; 5; or 15.   
++ Creating a Project Directory locally, a new GitHub repo, and linking the two together.   
++ Introduction to the use of the text editor (Sublime) for making the production code for the App. 
++ Introduction to the concept of Version control, creating a basic feature and then building on that funcitonality:
+  - Version 0: Setting up the project as described above.
+  - Version 1: Adding the first basic feature (namely creating a list of students).  
+  - Version 2: Refactoring the code (this was the very first mention of 'refactoring').
+  - Version 3: Introducing an array for the list of students.
+  - Version 4: Introducing the use of Ruby methods to list students.
+  - Version 5: Adding extra information using Key/Value pairs. 
+  - Version 6: Adding user input into the App. 
+  - Version 7: Building an interactive menu. 
   
---END--
++ Commiting each completed version to Github via the command line. 
+    
+####Lessons Learned     
+   
+This was the first exercise in the pre course material that had some semblance of an 'App' and was hugely helpful in showing how a project, however basic, might be set up and used. 
+   
+I enjoyed this exercise immensely, in the way I was using a number of different programs (GitHub, Sublime, Terminal) to produce something tangible. It added a little bit of confidence that the learning material was 'for' something (ie, it can be put to good use), and was a little less dry that the previous work I'd done to date.  
+
+**END**
 
 
 
